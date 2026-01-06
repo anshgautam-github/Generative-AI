@@ -1,5 +1,5 @@
 def main():
-    print("Hello from generative-ai!")
+    print("Hello from langchain-updated!")
 
 
 if __name__ == "__main__":
